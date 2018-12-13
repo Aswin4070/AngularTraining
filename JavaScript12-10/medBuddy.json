@@ -1,0 +1,21 @@
+{
+    "hospitals": [
+        {  "id":101,
+           "hospitalName": "apollo",
+           "phone": 505050
+        },
+        {  "id":102,
+            "hospitalName": "care",
+            "phone": 255050
+         },
+         {  "id":103,
+            "hospitalName": "seven",
+            "phone": 505080
+         },
+         {  "id":104,
+            "hospitalName": "ten",
+            "phone": 10111
+         }
+    ],
+    "labs": []
+}
